@@ -17,6 +17,6 @@
 - [ ] Structual Patter Matching
 - [ ] Design Patters - Advanced OOP
 - [ ] Regular expressions
-- [ ] Relatiional databases - sql and mysql
+- [ ] Relational databases - sql and mysql
 - [ ] HTML5 and CSS3
 - [ ] Linux/Unix commands
